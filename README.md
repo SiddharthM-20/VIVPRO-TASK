@@ -59,3 +59,4 @@ http://localhost:5000/rating
 #### Compatibility
 This code has been developed and tested well in Windows in the virtual python environment.
 
+by Siddharth Mishra
